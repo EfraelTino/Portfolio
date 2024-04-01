@@ -17,7 +17,7 @@ export default function () {
           </p>
           <h2 className="text-zinc-900 dark:text-slate-100 font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px] text-start">Contact.</h2>
             <div className="flex gap-4 my-2">
-                <a href="" className="text-[36px] text-zinc-900 dark:text-amber-400 hover:dark:text-opacity-80">
+                <a href="https://drive.google.com/file/d/1CS3SHJm8BztpefNUSsMvwWT4cZKFFzzr/view?usp=sharing" target="_blanck" className="text-[36px] text-zinc-900 dark:text-amber-400 hover:dark:text-opacity-80">
                     <RiFileUserLine />
                 </a>
                 <a href="https://www.linkedin.com/in/efrael/" className="text-[36px] text-zinc-900 dark:text-amber-400 hover:dark:text-opacity-80">

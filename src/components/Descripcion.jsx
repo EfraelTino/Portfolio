@@ -64,15 +64,15 @@ export default function Descripcion() {
             <AiFillMail className="text-xl sm:text-lg z-auto" />
             Email
           </a>
-          <button className="flex items-center text-[14px] sm:text-sm gap-1 bg-amber-200 hover:bg-opacity-80 dark:bg-amber-400 hover:dark:bg-opacity-90 text-zinc-900 dark:text-zinc-9000 py-2 px-4 rounded-lg font-semibold hover:bg-amber-300 ">
+          <a href="https://drive.google.com/file/d/1P_r9kBYRaAx74iOUj701g2A0nJkd-CF0/view?usp=sharing" target="_blanck"  className="flex items-center text-[14px] sm:text-sm gap-1 bg-amber-200 hover:bg-opacity-80 dark:bg-amber-400 hover:dark:bg-opacity-90 text-zinc-900 dark:text-zinc-9000 py-2 px-4 rounded-lg font-semibold hover:bg-amber-300 ">
 
             <RiFileUserLine />
             CV(ES)
-          </button>
-          <button className="flex items-center text-[14px] sm:text-sm gap-1 bg-amber-200 hover:bg-opacity-80 dark:bg-amber-400 hover:dark:bg-opacity-90 text-zinc-900 dark:text-zinc-900 py-2 px-4 rounded-lg font-semibold hover:bg-amber-300 ">
+          </a>
+          <a href="https://drive.google.com/file/d/1CS3SHJm8BztpefNUSsMvwWT4cZKFFzzr/view?usp=sharing" target="_blanck" className="flex items-center text-[14px] sm:text-sm gap-1 bg-amber-200 hover:bg-opacity-80 dark:bg-amber-400 hover:dark:bg-opacity-90 text-zinc-900 dark:text-zinc-900 py-2 px-4 rounded-lg font-semibold hover:bg-amber-300 ">
             <RiFileUserLine  className="text-xl sm:text-lg z-auto"/>
             CV(EN)
-          </button>
+          </a>
         </div>
       </div>
     </section>
