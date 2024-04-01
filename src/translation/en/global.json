@@ -1,0 +1,44 @@
+{
+    "header": 
+    {
+        "greating": "I'm a passionate FullStack MERN web developer"
+    },
+    "generals" :{
+        "intro": "INTRODUCTION",
+        "areas": "THE AREAS I CAN HANDLE AND IMPROVE",
+        "study": "WHERE I STUDIED?",
+        "jobs": "JOBS",
+        "get": "GET IN TOUCH"
+    },
+    "titles": {
+        "overview": "Overview.",
+        "projects": "Projects.",
+        "knowledge": "Knowledge.",
+        "education": "Education.",
+        "experience": "Experience.",
+        "plataform" :"E-learning platform",
+        "contact": "Contact.",
+        "fs" : "FullStack Developer",
+        "it":"IT and computing technician",
+        "md":"Multimedia Developer",
+        "technology":"IT and computing technician"
+    },
+    "subtitles": {
+        "four":"+400 active users per day",
+        "eighty":"+80 active users per day",
+        "seventounsond":"+700 active users per day",
+        "posicion": "Position",
+        "date": "Date",
+        "tec": "Technologies"
+    },
+    "descriptions": {
+        "descoverview": "As a dynamic professional with an intermediate level of English, I bring a diverse set of skills spanning Full Stack development. Collaborating within teams, I contribute my expertise to ensure efficient work processes. I am passionate about technology and possess the ability to swiftly adapt to the latest technologies, consistently adhering to best programming practices.",
+        "projects": "Following projects showcases my skills and experience through real-world examples of my work. Each project is briefly described with links to code repositories. It reflects my ability to solve complex problems, work with different technologies, and manage projects effectively. I'm willing to answer any question related to them! These are the main projects, but not the only ones.",
+        "cozecha": "A comprehensive B2B platform facilitating communication between agricultural product suppliers and end buyers. Leveraging the MERN stack (MongoDB, Express, React, Node), this project will enable B2C interactions through real-time messaging, providing users with a unique experience.",
+        "elearning": "Full stack, complete online education platform designed specifically for a prominent Colombian company. Utilizing the XAMPP stack (Apache, MySQL/MariaDB, PHP, and Perl), this project is tailored to allow students to dynamically engage in their courses, featuring a unique and user-friendly graphical interface.",
+        "transitionsrun": "Full stack online video game platform designed exclusively for LATAM competitors. Leveraging the XAMPP stack (Apache, MySQL/MariaDB, PHP, Perl, and JQuery), this project supports up to 700 concurrent players, featuring a highly immersive custom graphical user interface design.",
+        "present":"Present",
+        "made" :"Made with",
+        "by": "by Efrael"
+    }
+}

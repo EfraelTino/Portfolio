@@ -1,0 +1,44 @@
+{
+    "header": 
+    {
+        "greating": "Soy un apasionado desarrollador web FullStack MERN"
+    },
+    "generals" :{
+        "intro": "INTRODUCCIÓN",
+        "areas": "LAS ÁREAS QUE PUEDO MANEJAR Y MEJORAR",
+        "study": "¿DÓNDE ESTUDIÉ?",
+        "jobs": "TRABAJOS",
+        "get": "CONTÁCTAME"
+    },
+    "titles": {
+        "overview": "Descripción general.",
+        "projects": "Proyectos.",
+        "knowledge": "Conocimiento.",
+        "education": "Educación.",
+        "experience": "Experiencia.",
+        "plataform" :"Plataforma E-learning",
+        "contact": "Contacto.",
+        "fs" : "Desarrollador FullStack",
+        "it":"Técnico en Computación e Informática",
+        "md":"Desarrollador multimedia",
+        "technology":"Técnico en Computación e Informática"
+    },
+    "subtitles": {
+        "four":"+400 usuarios activos por día",
+        "eighty":"+80 usuarios activos por día",
+        "seventounsond":"+700 usuarios activos por día",
+        "posicion": "Cargo",
+        "date": "Fechas",
+        "tec": "Tecnologías"
+    },
+    "descriptions": {
+        "descoverview": "Como profesional dinámico con un nivel intermedio de inglés, aporto un conjunto diverso de habilidades que abarcan el desarrollo Full Stack. Colaborando en equipos, aporto mi experiencia para garantizar procesos de trabajo eficientes. Me apasiona la tecnología y poseo la capacidad de adaptarme rápidamente a las últimas tecnologías, apegándome constantemente a las mejores prácticas de programación.",
+        "projects": "Los siguientes proyectos muestran mis habilidades y experiencia a través de ejemplos de mi trabajo del mundo real. Cada proyecto se describe brevemente con enlaces a repositorios de código. Refleja mi capacidad para resolver problemas complejos, trabajar con diferentes tecnologías y gestionar proyectos de forma eficaz. ¡Estoy dispuesto a responder cualquier pregunta relacionada con ellos! Estos son los principales proyectos, pero no los únicos.",
+        "cozecha": "Una plataforma B2B integral que facilita la comunicación entre proveedores de productos agrícolas y compradores finales. Aprovechando la pila MERN (MongoDB, Express, React, Node), este proyecto permitirá interacciones B2C a través de mensajería en tiempo real, brindando a los usuarios una experiencia única.",
+        "elearning": "Plataforma completa de educación en línea diseñada específicamente para una destacada empresa colombiana. Utilizando la pila XAMPP (Apache, MySQL/MariaDB, PHP y Perl), este proyecto está diseñado para permitir a los estudiantes participar dinámicamente en sus cursos, con una interfaz gráfica única y fácil de usar.",
+        "transitionsrun": "Plataforma de videojuegos en línea full stack diseñada exclusivamente para competidores de LATAM. Aprovechando la pila XAMPP (Apache, MySQL/MariaDB, PHP, Perl y JQuery), este proyecto admite hasta 700 reproductores simultáneos y presenta un diseño de interfaz gráfica de usuario personalizado altamente inmersivo.",
+        "present":"Actualidad",
+        "made" :"Hecho con",
+        "by": "por"
+    }
+}
