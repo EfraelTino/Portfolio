@@ -10,7 +10,7 @@ export default function Conocimiento() {
           &nbsp;
         </span>
         <div>
-          <p className="sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider text-start text-orange-600 dark:text-yellow-500">
+          <p className="sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider text-start text-amber-400 dark:text-yellow-500">
           {t("generals.areas")}
           </p>
           <h2 className="text-zinc-900 dark:text-slate-100 font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px] text-start">
@@ -160,9 +160,9 @@ export default function Conocimiento() {
           </div>
         </div>
       </section>
-      <section className="mx-auto w-11/12 md:max-w-4xl  mx-auto relative z-0">
+      <section className="mx-auto w-11/12 md:max-w-4xl   relative z-0">
         <div>
-          <p className="sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider text-start text-orange-600 dark:text-yellow-500">
+          <p className="sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider text-start text-amber-400 dark:text-yellow-500">
           {t("generals.study")}
           </p>
           <h2 className="text-zinc-900 dark:text-slate-100 font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px] text-start">
@@ -192,7 +192,7 @@ export default function Conocimiento() {
       </section>
       <section className="mt-16 mx-auto w-11/12 md:max-w-4xl  relative z-0">
         <div>
-          <p className="sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider text-start text-orange-600 dark:text-yellow-500">
+          <p className="sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider text-start text-amber-400 dark:text-yellow-500">
           {t("generals.jobs")}
           </p>
           <h2 className="text-zinc-900 dark:text-slate-100 font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px] text-start">

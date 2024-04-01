@@ -12,21 +12,21 @@ export default function () {
     <>
       <section className="w-11/12 md:max-w-4xl mx-auto relative z-0 mt-16 ">
         <div className="flex-[0.75]  rounded-2xl">
-          <p className="sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider text-start text-orange-600 dark:text-yellow-500">
+          <p className="sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider text-center text-amber-400 dark:text-yellow-500">
             Get in touch
           </p>
-          <h2 className="text-zinc-900 dark:text-slate-100 font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px] text-start">Contact.</h2>
-            <div className="flex gap-4 my-2">
-                <a href="https://drive.google.com/file/d/1CS3SHJm8BztpefNUSsMvwWT4cZKFFzzr/view?usp=sharing" target="_blanck" className="text-[36px] text-zinc-900 dark:text-amber-400 hover:dark:text-opacity-80">
+          <h2 className="text-zinc-900 dark:text-slate-100 font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px] text-center">Contact.</h2>
+            <div className="flex gap-4 my-2 justify-center">
+                <a href="https://drive.google.com/file/d/1CS3SHJm8BztpefNUSsMvwWT4cZKFFzzr/view?usp=sharing" target="_blanck" className="text-[36px] text-zinc-900 dark:text-amber-400 hover:dark:text-opacity-80 hover:text-zinc-60">
                     <RiFileUserLine />
                 </a>
-                <a href="https://www.linkedin.com/in/efrael/" className="text-[36px] text-zinc-900 dark:text-amber-400 hover:dark:text-opacity-80">
+                <a href="https://www.linkedin.com/in/efrael/" className="text-[36px] text-zinc-900  hover:text-zinc-600 dark:text-amber-400 hover:dark:text-opacity-80">
                     <AiFillLinkedin />
                 </a>
-                <a href="https://github.com/EfraelTino" className="text-[36px] text-zinc-900 dark:text-amber-400 hover:dark:text-opacity-80">
+                <a href="https://github.com/EfraelTino" className="text-[36px] text-zinc-900 hover:text-zinc-60 dark:text-amber-400 hover:dark:text-opacity-80">
                     <AiFillGithub />
                 </a>
-                <a href="mailto:efrael2001@gmail.com" className="text-[36px] text-zinc-900 dark:text-amber-400 hover:dark:text-opacity-80">
+                <a href="mailto:efrael2001@gmail.com" className="text-[36px] text-zinc-900 hover:text-zinc-60 dark:text-amber-400 hover:dark:text-opacity-80">
                     <AiFillMail  />
                 </a>
             </div>

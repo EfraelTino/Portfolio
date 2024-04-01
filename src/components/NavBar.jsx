@@ -30,7 +30,7 @@ export default function NavBar() {
               Efrael
             </h2>
           </div>
-          <div className="flex items-center gap-1 sm:gap-2 md:gap-3">
+          <div className="flex items-center gap-2 sm:gap-3 md:gap-4">
             <button
               className={`text-zinc-900 ${
                 activeLanguage === "es" ? "dark:text-amber-400 underline font-black" : "text-slate-400 dark:text-slate-100 font-normal"

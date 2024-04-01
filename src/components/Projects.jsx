@@ -6,8 +6,8 @@ export default function Projects() {
   return (
     <section className="flex flex-col sm:flex-row items-center gap-5 mx-auto w-11/12 md:max-w-4xl bg-white dark:bg-zinc-900 pb-8">
       <div>
-      <p className="sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider text-start text-orange-600 dark:text-yellow-500">
-      {t("generals.areas")}
+      <p className="sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider text-start text-amber-400 dark:text-yellow-500">
+      {t("generals.desc")}
         </p>
 
         <h2 className="text-2xl sm:text-6xl text-letf font-black text-zinc-900 dark:text-slate-100">
