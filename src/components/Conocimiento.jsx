@@ -236,7 +236,7 @@ export default function Conocimiento() {
                       {t("subtitles.date")}{": "}
                       </strong>
                       <small className="text-[14px] text-green-300">
-                        01/06/2022 - {t("descriptions.present")}
+                        01/06/2023 - {t("descriptions.present")}
                       </small>
                       <br />
                     </>
@@ -293,7 +293,7 @@ export default function Conocimiento() {
                       {t("subtitles.date")}{": "}
                       </strong>
                       <small className="text-[14px] text-green-300">
-                        01/06/2022 - {t("descriptions.present")}
+                        01/06/2023 - {t("descriptions.present")}
                       </small>
                       <br />
                     </>
@@ -349,7 +349,7 @@ export default function Conocimiento() {
                       {t("subtitles.date")}:{" "}
                       </strong>
                       <small className="text-[14px] text-green-300">
-                        04/02/2022 - 04/08/2022
+                        04/02/2023 - 04/08/2023
                       </small>
                       <br />
                     </>
